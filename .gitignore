@@ -1,0 +1,25 @@
+
+#this will ignore all files
+*
+
+
+
+
+*.csproj
+*/Debug/
+
+#besides for these files
+!*/
+!*.c
+!*.cs
+!*.cpp
+!*.h
+!*.hpp
+!Makefile
+!dummy.md
+!.gitignore
+
+#ignore these
+
+
+
